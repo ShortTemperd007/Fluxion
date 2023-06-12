@@ -15,7 +15,7 @@
 * A captive portal is launched in order to serve a page, which prompts the user to enter their WPA password
 * Each submitted password is verified by the handshake captured earlier
 * The attack will automatically terminate, as soon as a correct password is submitted..
-<p align="center"><img src="https://twitter.com/ShortTemperd007/status/1668177921465516033/photo/2" /></p>
+<p align="center"><img src="fl 3.png" /></p>
 ## How To Install? & How To Use? :
 Watch This Tutorial : [Click Here](https://www.youtube.com/watch?v=i6VN5C2qLK4) (Tutorial in Hindi)
 
