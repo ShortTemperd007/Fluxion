@@ -16,6 +16,8 @@
 * Each submitted password is verified by the handshake captured earlier
 * The attack will automatically terminate, as soon as a correct password is submitted..
 <p align="center"><img src="fl 3.png" /></p>
+<p align="center"><img src="flk 2.png" /></p>
+
 ## How To Install? & How To Use? :
 Watch This Tutorial : [Click Here](https://www.youtube.com/watch?v=i6VN5C2qLK4) (Tutorial in Hindi)
 
@@ -34,7 +36,7 @@ Fluxion is intended to be used for legal security purposes only, and you should 
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Twitter](https://twitter.com/ShortTemperd007), [Instagram](https://www.instagram.com/shorttemperd007/), [Github](https://www.github.com/thehackingsage) 
+& Don't Forget To Follow Me At [Twitter](https://twitter.com/ShortTemperd007), [Instagram](https://www.instagram.com/shorttemperd007/), [Github](https://github.com/ShortTemperd007) 
 ***Thankyou.***
 ***Keep Visiting..***
 ***Enjoy.!!! :)***
