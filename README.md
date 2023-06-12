@@ -15,7 +15,7 @@
 * A captive portal is launched in order to serve a page, which prompts the user to enter their WPA password
 * Each submitted password is verified by the handshake captured earlier
 * The attack will automatically terminate, as soon as a correct password is submitted..
-
+<p align="center"><img src="https://twitter.com/ShortTemperd007/status/1668177921465516033/photo/1" /></p>
 ## How To Install? & How To Use? :
 Watch This Tutorial : [Click Here](https://www.youtube.com/watch?v=i6VN5C2qLK4) (Tutorial in Hindi)
 
@@ -30,14 +30,11 @@ A Linux-based operating system. We recommend Kali Linux 2 or Kali 2016.1 rolling
 
 Fluxion is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer(s).  Be sure that you understand and are complying with the Fluxion licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.
 
-# License :
 
-[MIT Licence](https://github.com/thehackingsage/Fluxion/blob/master/LICENSE)
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & Don't Forget To SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
-
+& Don't Forget To Follow Me At [Twitter](https://twitter.com/ShortTemperd007), [Instagram](https://www.instagram.com/shorttemperd007/), [Github](https://www.github.com/thehackingsage) 
 ***Thankyou.***
 ***Keep Visiting..***
 ***Enjoy.!!! :)***
